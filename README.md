@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou o Pedro Danilo</h1>
 <h3 align="center">entusiasta apaixonado por ciência e análise de dados no mundo digital.</h3>
 
-- 🔭 Atualmente estou trabalhando com Análise e visualização de dados [Relatório de vendas](Privado)
+- 🔭 Atualmente estou trabalhando com Processos administrativos e Análise e visualização de dados
 
-- 🌱 Ultimamente Estou Aprendendo **Python3 e PySpark**
+- 🌱 Atualmente Estou Aprimorando meus conhceimento em  **Python3 e PySpark**
 
-- 💬 Me pergunte sobre **SQL, Python, Power Bi, Excel, Análise de dados, Machine Learning**
+- 💬 Me pergunte sobre **SQL, Python, Power Bi, Excel, Análise de dados, Machine Learning , Vendas e Processos Administrativos**
 
 - 📫 Você me acha através do e-mail **pedrodaniloanalista@gmail.com**
 
